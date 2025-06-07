@@ -1,0 +1,43 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+/* Container styling */
+.container {
+  padding-top: 30px;
+}
+
+/* Image: curved rectangle */
+.profile-pic {
+  width: 120px;
+  border-radius: 30px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Name styling */
+h1 {
+  margin-bottom: 0;
+  font-weight: normal;
+}
+
+.ipa {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 18px;
+  color: gray;
+  margin-top: 8px;
+}
+
+
+/* Social Icons */
+.social-icons img {
+  margin: 0 10px;
+  transition: transform 0.2s ease;
+}
+
+.social-icons img:hover {
+  transform: scale(1.1);
+}

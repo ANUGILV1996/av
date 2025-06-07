@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-06-07T23:44:40+05:30"
+    },
+    {
+      "path": "index.html",
+      "title": "Welcome!",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\nAnugil Velayudhan\r\n\r\n\r\n\r\n[ˈan̪uɡil ˈʋeːlaːjud̪ʱan]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-06-07T23:44:41+05:30"
+    }
+  ],
+  "collections": []
+}
