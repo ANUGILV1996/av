@@ -17,7 +17,7 @@ output:
 <div class="container" style="text-align: center;">
 
   <!-- Profile Image -->
-  <img src="Images/Anugil.png" alt="Anugil Velayudhan" class="profile-pic" style="border-radius: 20px; width: 200px;" />
+  <img src="Images/Anugil.jpg" alt="Anugil Velayudhan" class="profile-pic" style="border-radius: 20px; width: 200px;" />
 
   <!-- Tagline below image -->
  <div style="font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 18px; margin-top: 10px;">
@@ -38,7 +38,7 @@ output:
   <a href="https://www.facebook.com/share/19Ct6fnwkS/" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/anugil.v" target="_blank" style="margin: 0 8px;">
+  <a href="https://www.instagram.com/chomskianz?igsh=MWUwcW9mcHZpMDVyYQ==" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" />
   </a>
   <a href="mailto:anugilv96@email.com" style="margin: 0 8px;">
