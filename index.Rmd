@@ -21,7 +21,7 @@ output:
 
   <!-- Tagline below image -->
  <div style="font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 18px; margin-top: 10px;">
-  Linguist | Programmer | Photographer
+  Phonetician | Programmer | Photographer
 </div>
 
   <!-- Social Icons with Original Colors -->
