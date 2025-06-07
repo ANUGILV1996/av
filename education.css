@@ -1,0 +1,22 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h4, h4 strong {
+  text-transform: none !important;
+  font-family: inherit; /* or leave unset */
+}
+
+.edu-date {
+  font-size: 14px;
+  font-weight: normal;
+  color: #555;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #333;
+}
