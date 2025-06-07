@@ -1,7 +1,6 @@
-name: "."
+name: "personal-website"
 title: "Personal Website"
-description: |
-  Personal Website
+description: "Personal Website"
 output_dir: "docs"
 navbar:
   right:
@@ -9,4 +8,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Academics"
+      menu: 
+        - text: "Education"
+          href: education.html
+    - text: "Blogs"
+      href: blogs.html 
 output: distill::distill_article

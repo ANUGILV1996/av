@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title:
 site: distill::distill_website
 output:
   distill::distill_article:
