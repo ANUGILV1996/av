@@ -1,43 +1,50 @@
 body {
-  font-family: "Times New Roman", Times, serif;
-  background-color: #f7f7f7;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Center align the title and ipa */
+h1, /* assuming your title is an h1 element */
+.ipa {
   text-align: center;
 }
 
-/* Container styling */
-.container {
-  padding-top: 30px;
-}
-
-/* Image: curved rectangle */
 .profile-pic {
-  width: 120px;
-  border-radius: 30px;
-  margin-bottom: 30px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  width: 210px;
 }
 
-/* Name styling */
-h1 {
-  margin-bottom: 0;
-  font-weight: normal;
+.social-icons img {
+  margin: 0 6px;
+  vertical-align: middle;
+}
+
+.tagline {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
 }
 
 .ipa {
-  font-family: "Times New Roman", Times, serif;
   font-style: italic;
+  font-weight: bold;
   font-size: 18px;
-  color: gray;
+  color: black;
   margin-top: 8px;
+  /* add center alignment */
+  text-align: center;
 }
 
+/* you can remove duplicate .tagline definition or combine */
+.tagline {
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 10px;
+  text-align: center; /* ensure center alignment */
+}
 
-/* Social Icons */
 .social-icons img {
-  margin: 0 10px;
-  transition: transform 0.2s ease;
-}
-
-.social-icons img:hover {
-  transform: scale(1.1);
+  margin: 0 8px;
 }
