@@ -1,22 +1,38 @@
+/* Container styling - optional, add if you want to constrain width */
 body {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", serif;
 }
 
-h4, h4 strong {
-  text-transform: none !important;
-  font-family: inherit; /* or leave unset */
+/* Style for all h4 */
+h4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.2em;
+  font-weight: normal; /* reset default */
 }
 
-.edu-date {
-  font-size: 14px;
-  font-weight: normal;
-  color: #555;
+/* Bold course name in h4, left side, keep original casing */
+h4 strong {
+  font-weight: bold;
+  font-family: "Times New Roman", serif;
+  font-size: 1.1em;
+  text-transform: none;
 }
 
+/* Year on the right, bold */
+h4 .edu-date {
+  font-weight: bold;
+  font-family: "Times New Roman", serif;
+  font-size: 1em;
+}
+
+/* Paragraph below - normal font */
 p {
+  font-family: "Times New Roman", serif;
+  font-weight: normal;
   margin-top: 0;
-  margin-bottom: 20px;
-  font-size: 15px;
-  line-height: 1.5;
-  color: #333;
+  margin-bottom: 1.2em;
+  line-height: 1.3;
+  font-size: 0.95em;
 }
