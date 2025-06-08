@@ -16,6 +16,8 @@ navbar:
           href: projects.html
         - text: "Presentations"
           href: presentations.html
+        - text: "Publications"
+          href: publications.html
         - text: "Workshops"
           href: workshops.html
     - text: "Blogs"
