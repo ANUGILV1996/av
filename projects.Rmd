@@ -6,7 +6,6 @@ output:
     css: projects.css
 ---
 
-
 <div class="project-card">
   <h3>🧏‍♂️ Language Teaching and Learning Methods among Hearing-Impaired Students in Kerala</h3>
   <p class="subtitle"><strong>MPhil Thesis, 2022</strong></p>
