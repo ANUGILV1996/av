@@ -6,21 +6,42 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-06-07T23:44:40+05:30"
+      "last_modified": "2025-06-08T16:19:51+05:30"
     },
     {
       "path": "education.html",
       "title": "🎓 Education",
       "author": [],
       "contents": "\r\n\r\nMSc Forensic Phonetics  | 2022–2023(25) \r\n\r\n\r\nDepartment of Language and Linguistic Science\r\nUniversity of York, Heslington, England.\r\n\r\n\r\nMPhil Linguistics  | 2021–2022\r\n\r\n\r\nDepartment of Linguistics, Kariavattom Campus\r\nUniversity of Kerala, Thiruvananthapuram, India.\r\n\r\n\r\nMA Linguistics  | 2018–2020\r\n\r\n\r\nDepartment of Linguistics, Kariavattom Campus \r\nUniversity of Kerala, Thiruvananthapuram, India.\r\n\r\n\r\nBSc Chemistry  | 2013–2016\r\n\r\n\r\nDepartment of Chemistry, Government College Chittur \r\nUniversity of Calicut, Malappuram, India.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-06-08T02:36:38+05:30"
+      "last_modified": "2025-06-08T16:19:52+05:30"
     },
     {
       "path": "index.html",
       "title": "Anugil Velayudhan",
       "author": [],
       "contents": "\r\n\r\n\r\n[ˈan̪uɡil ˈʋeːlaːjud̪ʱan]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPhonetician | Programmer | Photographer\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-06-08T02:44:01+05:30"
+      "last_modified": "2025-06-08T16:19:53+05:30"
+    },
+    {
+      "path": "presentations.html",
+      "title": "🎤 Presentations",
+      "author": [],
+      "contents": "\r\n\r\n\r\nInternational Seminar on AI and Large Language Models for Dravidian Languages\r\n\r\n\r\n📍 Department of Linguistics, Central University of Kerala, India\r\n\r\n\r\n🗓 21-22 Aug 20242\r\n\r\n\r\n🎙️ Presentation: “Variability in Formant Dynamics of Long and Short Vowels in Malayalam”\r\n\r\n\r\n\r\n\r\nWeb Conference on Cooperatives, Mutual Aid and Solidarity Economies\r\n\r\n\r\n📍 Department of Economics, University of Kerala, Thiruvananthapuram\r\n\r\n\r\n🗓 12-14 Jan 2022\r\n\r\n\r\n🎙️ Presentation: “A Linguistic Approach to the Economic Solidarity: The Study on Unorganised Micro-Enterprisers in Kerala Tourism Sector”\r\n\r\n\r\n\r\n\r\nThree-day National Webinar on Current Trends in Literature and Linguistics\r\n\r\n\r\n📍 School of Indian Languages, ONV Memorial Academic Complex, University of Kerala\r\n\r\n\r\n🗓️ 11-13 Aug 2022\r\n\r\n\r\n🎙️ Presentation: “Lexemes of COVID-19: A Linguistics Study Based on Newspapers in Kerala”\r\n\r\n\r\n\r\n\r\nFive-day National Webinar on COVID-19: Vulnerability, Adaptation and Capacity Building among Tribal Communities\r\n\r\n\r\n📍 Dept. of Sociology, University of Kerala & IIST, Thiruvananthapuram\r\n\r\n\r\n🗓️ 14-18 Mar 2021\r\n\r\n\r\n🎙️ Presentation: “A Dive into the Impacts of ‘The First Bell’ among Tribal Students”\r\n\r\n\r\n\r\n\r\nThree-day National Seminar on Current Trends in Language and Literature in India\r\n\r\n\r\n📍 School of Indian Languages, ONV Memorial Academic Complex, University of Kerala\r\n\r\n\r\n🗓️ 10–12 Dec 2019\r\n\r\n\r\n🎙️ Presentation: “Stylistic Analysis of Slangyalam; Modern Trends and Propagations”\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-06-08T16:19:54+05:30"
+    },
+    {
+      "path": "projects.html",
+      "title": "📚 Projects",
+      "author": [],
+      "contents": "\r\n\r\n\r\n🧏‍♂️ Language Teaching and Learning Methods among Hearing-Impaired Students in Kerala\r\n\r\n\r\nMPhil Thesis, 2022\r\n\r\n\r\nExploratory research using methodological pluralism: ethnographic and case study methods.\r\n\r\n\r\nDesigned and administered a comprehensive questionnaire in three schools across Kerala.\r\n\r\n\r\nCollected insights from hearing-impaired students and their teachers.\r\n\r\n\r\nTranscribed recorded interviews for interpretative and descriptive analysis.\r\n\r\n\r\nUncovered patterns in teaching and learning strategies in inclusive education contexts.\r\n\r\n\r\n\r\n\r\n🦠 Coronavirus Infectious Disease Ontology from Malayalam Data Set\r\n\r\n\r\nAspire Scholarship Project, 2021\r\n\r\n\r\nCompiled a comprehensive Malayalam COVID-19 text corpus focused on linguistic and thematic relevance.\r\n\r\n\r\nConducted text preprocessing: tokenization, stemming, lemmatization, and n-gram modeling.\r\n\r\n\r\nPrepared the dataset for computational linguistic analysis and ontology development.\r\n\r\n\r\n\r\n\r\n📰 Lexemes of COVID-19: A Linguistics Study Based on Newspapers in Kerala\r\n\r\n\r\nMA Dissertation, 2020\r\n\r\n\r\nQualitative research using descriptive analysis to examine COVID-19-related linguistic patterns.\r\n\r\n\r\nSystematically sampled data from a time series of Malayalam newspapers.\r\n\r\n\r\nExecuted classification and analysis of pandemic-related lexemes.\r\n\r\n\r\nYielded insights into how media language evolved during the crisis.\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-06-08T16:19:55+05:30"
+    },
+    {
+      "path": "workshops.html",
+      "title": "🛠️ Workshops",
+      "author": [],
+      "contents": "\r\n\r\n\r\nThree-Day National Level Training Programme on ‘Forensic Linguistics: Language & Crime’\r\n\r\n\r\n📍 Department of Linguistics, University of Kerala, India\r\n\r\n\r\n🗓️ 08–10 Jan 2024\r\n\r\n\r\n\r\n\r\nACTL Summer School 2023 – Advanced Core Training in Linguistics\r\n\r\n\r\n📍 Department of Language and Linguistic Science, University of York, UK\r\n\r\n\r\n🗓️ 26–30 June 2023\r\n\r\n\r\n\r\n\r\nWorkshop on ‘Language Description and Documentation: Techniques and Technologies’\r\n\r\n\r\n📍 UGC-Centre for Endangered Languages, Dept. of Linguistics, University of Kerala, India\r\n\r\n\r\n🗓️ 29–31 Jan 2020\r\n\r\n\r\n\r\n\r\nSeminar on ‘Ancient Numericals and Measures in South India’\r\n\r\n\r\n📍 Oriental Research Institute and Manuscripts Library, University of Kerala, India\r\n\r\n\r\n🗓️ 19–21 Nov 2019\r\n\r\n\r\n\r\n\r\nSeminar on ‘Early Christian Missionaries’ Contribution to Journalism in India’\r\n\r\n\r\n📍 Christian Study Centre for Cultural and Social Change, Dept. of Linguistics, University of Kerala, India\r\n\r\n\r\n🗓️ 08–10 Jan 2019\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-06-08T16:29:52+05:30"
     }
   ],
   "collections": []
